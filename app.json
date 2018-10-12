@@ -4,7 +4,7 @@
   "keywords": ["chisell"],
   "env": {
     "VER": {
-       "description": " chisel version",
+       "description": " chisell version",
        "value": "1.2.3"
      }, 
     "AUTH": {
