@@ -1,7 +1,7 @@
 {
-  "name": "chisel",
-  "description": "deploy chisel to Heroku.",
-  "keywords": ["chisel"],
+  "name": "chisell",
+  "description": "deploy chisell to Heroku.",
+  "keywords": ["chisell"],
   "env": {
     "VER": {
        "description": " chisel version",
@@ -9,10 +9,10 @@
      }, 
     "AUTH": {
        "description": "user:password",
-       "value": "user:ss888888"
+       "value": "user:88888888"
      }
   },
-  "website": "https://github.com/SrS888/chisel-heroku",
-  "repository": "https://github.com/Srs888/chisel-heroku",
+  "website": "https://github.com/SrS888/chisell",
+  "repository": "https://github.com/Srs888/chisell",
   "stack": "container"
  }
